@@ -156,7 +156,7 @@ body {
 
 /* Enlaces del menú (botones) */
 .side-menu a {
- text-decoration: none;
+    text-decoration: none;
     color: white;
     font-family: 'Will & Grace', sans-serif; /* Aplicamos la tipografía */
     font-size: 24px;
@@ -309,5 +309,6 @@ body {
         transform: translateX(-100%);
     }
 }
+
 
 
