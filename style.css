@@ -241,7 +241,7 @@ body {
 .side-menu a {
     text-decoration: none;
     color: white;
-    font-family: 'Will & Grace', sans-serif; /* Aplicamos la tipografía */
+    font-family: 'WILLG___.ttf'; /* Aplicamos la tipografía */
     font-size: 24px;
     padding: 10px;
     left: -3px;
@@ -355,3 +355,4 @@ body {
       from { transform: translate(-50%, -50%) rotate(0deg); }
       to { transform: translate(-50%, -50%) rotate(360deg); }
     }
+
