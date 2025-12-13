@@ -5,7 +5,7 @@
 */
 @font-face {
     font-family: 'Will & Grace';
-    src: url('WILLG___.ttf') format('truetype');
+    src: url('WILLG___.TTF') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -401,3 +401,4 @@ body {
     }
 
 }
+
